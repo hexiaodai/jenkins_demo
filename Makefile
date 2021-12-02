@@ -1,0 +1,2 @@
+utilstest:
+	go test ./utils
